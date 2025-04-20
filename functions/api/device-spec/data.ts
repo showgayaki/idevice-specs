@@ -5,7 +5,7 @@ const deviceSpecs = {
             "ppi": 163,
             "width": 320,
             "height": 480,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPhone1,2": {
@@ -14,7 +14,7 @@ const deviceSpecs = {
             "ppi": 163,
             "width": 320,
             "height": 480,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPhone2,1": {
@@ -23,7 +23,7 @@ const deviceSpecs = {
             "ppi": 163,
             "width": 320,
             "height": 480,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPhone3,1": {
@@ -32,7 +32,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 960,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone4,1": {
@@ -41,7 +41,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 960,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone5,1": {
@@ -50,7 +50,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 1136,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone5,3": {
@@ -59,7 +59,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 1136,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone6,1": {
@@ -68,7 +68,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 1136,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone7,1": {
@@ -77,7 +77,7 @@ const deviceSpecs = {
             "ppi": 401,
             "width": 1080,
             "height": 1920,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone7,2": {
@@ -86,7 +86,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone8,1": {
@@ -95,7 +95,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone8,2": {
@@ -104,7 +104,7 @@ const deviceSpecs = {
             "ppi": 401,
             "width": 1080,
             "height": 1920,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone8,4": {
@@ -113,7 +113,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 640,
             "height": 1136,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone9,1": {
@@ -122,7 +122,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone9,2": {
@@ -131,7 +131,7 @@ const deviceSpecs = {
             "ppi": 401,
             "width": 1080,
             "height": 1920,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone10,1": {
@@ -140,7 +140,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone10,2": {
@@ -149,7 +149,7 @@ const deviceSpecs = {
             "ppi": 401,
             "width": 1080,
             "height": 1920,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone10,3": {
@@ -158,7 +158,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1125,
             "height": 2436,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone11,2": {
@@ -167,7 +167,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1125,
             "height": 2436,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone11,4": {
@@ -176,7 +176,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1242,
             "height": 2688,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone11,8": {
@@ -185,7 +185,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 828,
             "height": 1792,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone12,1": {
@@ -194,7 +194,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 828,
             "height": 1792,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone12,3": {
@@ -203,7 +203,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1125,
             "height": 2436,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone12,5": {
@@ -212,7 +212,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1242,
             "height": 2688,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone13,1": {
@@ -230,7 +230,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1170,
             "height": 2532,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone13,3": {
@@ -239,7 +239,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1170,
             "height": 2532,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone13,4": {
@@ -248,7 +248,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1284,
             "height": 2778,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone14,2": {
@@ -257,7 +257,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1170,
             "height": 2532,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone14,3": {
@@ -266,7 +266,7 @@ const deviceSpecs = {
             "ppi": 458,
             "width": 1284,
             "height": 2778,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone14,4": {
@@ -284,7 +284,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1170,
             "height": 2532,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone14,6": {
@@ -293,7 +293,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone15,2": {
@@ -302,7 +302,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1179,
             "height": 2556,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone15,3": {
@@ -311,7 +311,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1290,
             "height": 2796,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone15,4": {
@@ -320,7 +320,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1179,
             "height": 2556,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone15,5": {
@@ -329,7 +329,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1290,
             "height": 2796,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,1": {
@@ -338,7 +338,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1179,
             "height": 2556,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,2": {
@@ -347,7 +347,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1290,
             "height": 2796,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,5": {
@@ -356,7 +356,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1179,
             "height": 2556,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,6": {
@@ -365,7 +365,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1290,
             "height": 2796,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,7": {
@@ -374,7 +374,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1179,
             "height": 2556,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,8": {
@@ -383,7 +383,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1290,
             "height": 2796,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPhone16,9": {
@@ -392,7 +392,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 750,
             "height": 1334,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPhone16,e": {
@@ -401,7 +401,7 @@ const deviceSpecs = {
             "ppi": 460,
             "width": 1380,
             "height": 3000,
-            "scale_factor": 3.0
+            "scale_factor": 3
         }
     },
     "iPad1,1": {
@@ -410,7 +410,7 @@ const deviceSpecs = {
             "ppi": 132,
             "width": 768,
             "height": 1024,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPad2,1": {
@@ -419,7 +419,7 @@ const deviceSpecs = {
             "ppi": 132,
             "width": 768,
             "height": 1024,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPad2,2": {
@@ -428,7 +428,7 @@ const deviceSpecs = {
             "ppi": 132,
             "width": 768,
             "height": 1024,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPad2,3": {
@@ -437,7 +437,7 @@ const deviceSpecs = {
             "ppi": 132,
             "width": 768,
             "height": 1024,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPad2,4": {
@@ -446,7 +446,7 @@ const deviceSpecs = {
             "ppi": 132,
             "width": 768,
             "height": 1024,
-            "scale_factor": 1.0
+            "scale_factor": 1
         }
     },
     "iPad3,1": {
@@ -455,7 +455,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad3,4": {
@@ -464,7 +464,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad4,1": {
@@ -473,7 +473,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad4,4": {
@@ -482,7 +482,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad5,1": {
@@ -491,7 +491,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad5,3": {
@@ -500,7 +500,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad6,3": {
@@ -509,7 +509,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad6,7": {
@@ -518,7 +518,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad6,11": {
@@ -527,7 +527,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad7,1": {
@@ -536,7 +536,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad7,3": {
@@ -545,7 +545,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1668,
             "height": 2224,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad7,5": {
@@ -554,7 +554,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad7,11": {
@@ -563,7 +563,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1620,
             "height": 2160,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad8,1": {
@@ -572,7 +572,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1668,
             "height": 2388,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad8,5": {
@@ -581,7 +581,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad8,9": {
@@ -590,7 +590,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1668,
             "height": 2388,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad8,11": {
@@ -599,7 +599,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad11,1": {
@@ -608,7 +608,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 1536,
             "height": 2048,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad11,6": {
@@ -617,7 +617,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1620,
             "height": 2160,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad12,1": {
@@ -626,7 +626,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1620,
             "height": 2160,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad13,1": {
@@ -635,7 +635,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1640,
             "height": 2360,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad13,4": {
@@ -644,7 +644,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1668,
             "height": 2388,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad13,16": {
@@ -653,7 +653,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1640,
             "height": 2360,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad13,8": {
@@ -662,7 +662,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad13,18": {
@@ -671,7 +671,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1640,
             "height": 2360,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad14,3": {
@@ -680,7 +680,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 1668,
             "height": 2388,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad14,1": {
@@ -689,7 +689,7 @@ const deviceSpecs = {
             "ppi": 326,
             "width": 1488,
             "height": 2266,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     },
     "iPad14,5": {
@@ -698,7 +698,7 @@ const deviceSpecs = {
             "ppi": 264,
             "width": 2048,
             "height": 2732,
-            "scale_factor": 2.0
+            "scale_factor": 2
         }
     }
 }
